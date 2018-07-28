@@ -1,0 +1,30 @@
+
+.navbar{
+	background-color: 	#446C9E;
+
+}
+.navbar .navbar-brand{
+	color: #B4CEB6;
+}
+
+#map{
+  position: absolute; 
+  height:100%;
+  width:100%;
+  z-index: 0;
+}
+
+#margin{
+	margin-right: 100px;
+}
+
+#marginOne{
+	margin-right: 170px;
+}
+.form-element{
+			margin-bottom: 10px;
+}
+
+#input{
+  padding-top: 15px;
+}
